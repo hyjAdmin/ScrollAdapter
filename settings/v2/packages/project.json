@@ -1,0 +1,34 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 1280
+    }
+  },
+  "__version__": "1.0.1",
+  "layer": [
+    {
+      "name": "test",
+      "value": 1
+    },
+    {
+      "name": "test2",
+      "value": 2
+    },
+    {
+      "name": "test3",
+      "value": 4
+    },
+    {
+      "name": "scrollview_0",
+      "value": 8
+    },
+    {
+      "name": "scrollview_1",
+      "value": 16
+    },
+    {
+      "name": "scrollview_2",
+      "value": 32
+    }
+  ]
+}
